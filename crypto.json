@@ -15,8 +15,8 @@
   ],
   "extras": [
     {
-      "name": "ETN",
-      "ticker": "Electroneum"
+      "name": "Electroneum",
+      "ticker": "ETN"
     }
   ]
 }
