@@ -1,5 +1,5 @@
 # Mombasa Papers
-All currencies supported by the Mombasa Ambassador and Mombasa. 
+All currencies supported by the [Mombasa Ambassador](https://github.com/emilews/mombasa-ambassador/) and [Mombasa](https://github.com/emilews/mombasa-ambassador/). 
 
 ## How to add a currency
 Please submit a PR to master with either a Fiat or Crypto added in the corresponding file. Example:
